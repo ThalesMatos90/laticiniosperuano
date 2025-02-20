@@ -264,6 +264,11 @@ footer {
     .whats {
         display: none;
     }
+    @media screen and (max-width:420px) {
+    .pedido-btn:hover {
+        font-weight: bold;
+        background: #fdaf1b;
+    }
 
 
 
